@@ -1,5 +1,5 @@
 # <img src="./assets/logo.svg" alt="imagem">
-Projeto desenvolvido durante a semana Next Level Week 1.0, na turma Booster, promovida pela Rocketseat. O projeto consiste em um marketplace de coleta de resíduos onde possibilita o encontro de pontos de coleta de forma simples e eficiente. Fique a vontade para contibuir com o projeto :)
+Projeto desenvolvido durante a semana Next Level Week 1.0, na turma Booster, promovida pela Rocketseat. O projeto consiste em um marketplace de coleta de resíduos onde possibilita o encontro de pontos de coleta de forma simples e eficiente.
 
 > Algumas coisas que não interferem diretamente na eficiência do projeto, como fontes, não foram implementadas por apresentarem alguns problemas que tomariam um certo tempo (que devido ao prazo da semana, seria curto) para serem solucionados e como o foco era trabalhar com a stack, optei por não adiciona-las.
 
